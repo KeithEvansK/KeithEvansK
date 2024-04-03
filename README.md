@@ -1,11 +1,9 @@
-### Hi there 👋
+<div align="center">
+  Your text here
 
-
-
-<p align="center">
-
-Hi
+### Hi 👋
 
 ___
 
 Welcome
+</div>
