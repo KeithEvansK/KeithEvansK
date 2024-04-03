@@ -1,9 +1,10 @@
 <div align="center">
-  Your text here
 
 ### Hi 👋
-
 ___
-
-Welcome
+Intro
+___
+Interests
+___
+Skills
 </div>
