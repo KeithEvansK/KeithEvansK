@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi 👋
+### <span style="font-size:20px;">Hi 👋</span>
 ___
 Intro
 ___
