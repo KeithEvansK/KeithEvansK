@@ -3,11 +3,17 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my page.
 
 ## <ins>Keith Evans - Software Developer</ins>
+About Me
+I've been passionate about coding for as long as I can remember. My journey began in the 7th grade when I would check out books on web design from the library, before I ever had internet access at home, and I would type out everything by hand.
+
+Today, I am an educated software developer who has competed at the national level, written software in several different languages, and taught myself beyond the basics.
+
+Currently, I am working on a new game concept using the Godot game engine and Python, and I am also dabbling in learning React.
 ___
 
-I've been excited about code from an early age having started making small websites from books I checked out at the library. 
 
-Currently, I'm working on a new game concept using the Godot game engine and Python. And dabbling in learning React. 
+
+
 
 🌍  I'm based in Columbus, OH 
 
