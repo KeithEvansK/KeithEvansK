@@ -15,7 +15,7 @@ ___
 
 
 
-🌍  I'm based in Columbus, OH 
+🌍 Columbus, OH 
 
 ### Skills & Languages
 <p align="center">
