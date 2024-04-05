@@ -1,10 +1,9 @@
 <div align="center">
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my page.
-___
 
 ## <ins>Keith Evans - Software Developer</ins>
-
+___
 
 I've been excited about code from an early age having started making small websites from books I checked out at the library. 
 
