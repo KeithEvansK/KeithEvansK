@@ -2,14 +2,12 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my page.
 
-<div style="font-size: 60px;">
  I'm a passionate software developer who has been creating things primarily for fun for a number of years. I've created several small games, game plugins, software applications, and dabbled in so many more. 
 
 Play my [recent game I made here in your browser](https://playatdark.itch.io/witches-vroom) and read my whole development process for it in my pinned repos below :) 
 
 Currently working on my next game and some smaller side projects here and there. 
 
-</div>
 
 ## <ins>Keith Evans - Software Developer</ins>
 
