@@ -8,7 +8,7 @@ Play my [recent game I made here in your browser](https://playatdark.itch.io/wit
 
 Currently working on my next game and some smaller side projects here and there. 
 
-## <ins>Keith Evans - Software Developer</ins>
+## Keith Evans - Software Developer
 
 
 
