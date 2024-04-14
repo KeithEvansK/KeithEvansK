@@ -4,7 +4,7 @@
 
  I'm a passionate software developer who has been creating things primarily for fun for a number of years. I've created several small games, game plugins, software applications, and dabbled in so many more. 
 
-Play my [recent game I made here in your browser](https://playatdark.itch.io/witches-vroom) and read my whole development process for it in my pinned repos below :) 
+Play my recent game I made [here in your browser](https://playatdark.itch.io/witches-vroom) and read my whole development process for it in my pinned repos below :) 
 
 Currently working on my next game and some smaller side projects here and there. 
 
